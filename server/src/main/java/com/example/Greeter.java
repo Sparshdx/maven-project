@@ -10,9 +10,9 @@ public class Greeter {
    */
   public Greeter() {
 
-  }
+   }
 
-   /** 
+  /** 
     * @param someone the name of persion
     * @return greeting string
     */
